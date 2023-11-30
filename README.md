@@ -1,1 +1,0 @@
- python_django
